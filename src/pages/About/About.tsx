@@ -135,7 +135,10 @@ export default function About() {
                 />
 
                 <div className={styles.buttons}>
-                  <Button href="" download>
+                  <Button
+                    href="../../../public/pdf/cv_Dario-Reis_desenvolvedor_full_stack.pdf"
+                    download
+                  >
                     Baixar CV
                   </Button>
                   <Button href="contact">Contate-me</Button>
