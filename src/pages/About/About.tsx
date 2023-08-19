@@ -166,9 +166,46 @@ export default function About() {
                   <div className={styles.timeline}>
                     <TimelineItem
                       date="2021 - 2023"
-                      title="Análise e Desenvolvimento de Sistemas"
-                      subtitle="Tecnólogo"
-                      text="Especializado em Análise e Desenvolvimento de Sistemas, com foco em arquitetura de software e desenvolvimento de aplicações. Experiência em modelagem de dados, gestão de projetos e requisitos."
+                      title="Análise e Desenvolvimento de Sistemas - Estácio"
+                      subtitle="Faculdade"
+                      text="O curso de Análise e Desenvolvimento de Sistemas na Estácio me proporcionou uma base sólida nas principais áreas da tecnologia da informação, com foco em desenvolvimento de software, análise de sistemas e gestão de projetos. A formação foi voltada para o desenvolvimento de soluções tecnológicas, utilizando metodologias ágeis e ferramentas modernas, sempre com foco em eficiência e inovação.
+
+Principais Habilidades e Competências:
+Análise de Sistemas: Modelagem e documentação de sistemas, utilizando UML e outras ferramentas de análise.
+Desenvolvimento de Software: Programação orientada a objetos (POO), desenvolvimento web e mobile com Java, C#, e JavaScript.
+Banco de Dados: Modelagem de dados, criação e manutenção de bancos de dados relacionais (SQL) e não relacionais (NoSQL).
+Gestão de Projetos: Aplicação de metodologias ágeis como Scrum e Kanban para o gerenciamento de projetos de software.
+Engenharia de Software: Boas práticas de engenharia, incluindo testes de software, versionamento de código e controle de qualidade.
+Segurança da Informação: Noções de segurança digital, criptografia e práticas para proteger dados e sistemas.
+Experiências Relevantes:
+Desenvolvimento Full Stack: Criação de aplicações web com integração entre front-end e back-end.
+Projetos Práticos: Desenvolvimento de soluções para casos reais, aplicando análise de requisitos e implementando sistemas completos.
+Trabalho em Equipe: Participação em projetos colaborativos, aplicando metodologias ágeis para entregar soluções funcionais dentro dos prazos estabelecidos.
+A conclusão deste curso me preparou para atuar de forma estratégica no desenvolvimento de sistemas e soluções tecnológicas, com uma visão completa do ciclo de vida de um software, desde a análise até a entrega final.
+"
+                    />
+                  </div>
+                </div>
+                <div className={styles.row}>
+                  <div className={styles.timeline}>
+                    <TimelineItem
+                      date="2022"
+                      title="Desenvolvedor Java Web Full Stack - Generation Brasil"
+                      subtitle="Bootcamp"
+                      text="Durante o curso de Desenvolvedor Java Web Full Stack na Generation Brasil, adquiri habilidades práticas e teóricas para atuar no desenvolvimento completo de aplicações web, tanto no front-end quanto no back-end. O programa foi intensivo e focado em projetos práticos que simulavam demandas reais do mercado de tecnologia.
+                        Principais Tecnologias e Ferramentas:
+                        Front-end: HTML5, CSS3, JavaScript, Bootstrap, Angular.
+                        Back-end: Java, Spring Boot, APIs RESTful.
+                        Banco de Dados: MySQL, PostgreSQL.
+                        Versionamento de Código: Git, GitHub.
+                        Metodologias Ágeis: Scrum.
+                        Experiências e Projetos:
+                        Desenvolvimento Full Stack: Criação de aplicações web completas, implementando tanto o front-end quanto o back-end.
+                        Integração de APIs REST: Criação e consumo de APIs para conectar o front-end com o back-end e sistemas externos.
+                        Autenticação e Segurança: Implementação de autenticação de usuários com Spring Security e práticas de segurança para proteger os dados.
+                        Boas Práticas de Código: Aplicação de princípios como SOLID e boas práticas de design para manter o código organizado e escalável.
+                        Projetos em Grupo: Trabalho colaborativo em times multidisciplinares, desenvolvendo soluções completas e entregando projetos em sprints.
+                        Esse curso me preparou para enfrentar os desafios do mercado de tecnologia, aplicando as melhores práticas em desenvolvimento web e buscando sempre a evolução contínua."
                     />
                   </div>
                 </div>
