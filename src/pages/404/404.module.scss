@@ -11,15 +11,17 @@
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
+  color: var(--skin-color);
 }
 
 p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
+  color: var();
 }
 
 a {
   font-size: 1.1rem;
   text-decoration: none;
-  color: #007bff;
+  color: var(--skin-color);
 }
