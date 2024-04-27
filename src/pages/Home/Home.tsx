@@ -13,7 +13,7 @@ export default function Home() {
           name="Dario Reis"
           profession="Sou um"
           jobs={["Desenvolvedor FullStack", "Desenvolvedor Front-end", "Desenvolvedor Back-end"]}
-          description=" Tenho dedicado os últimos três anos ao estudo e prática em desenvolvimento web. Possuo especialização em tecnologias front-end e back-end, com foco em JavaScript e Node.JS. Estou sempre buscando aprender e implementar as melhores práticas no desenvolvimento web para criar experiências de usuário excepcionais."
+          description="Tenho três anos de experiência em desenvolvimento web, com foco tanto no front-end quanto no back-end. Durante esse tempo, me especializei em tecnologias como JavaScript e Node.js, buscando constantemente aprimorar minhas habilidades e aprender as melhores práticas do mercado. Meu objetivo é criar interfaces intuitivas e experiências de usuário de alta qualidade. Além disso, estou sempre aberto a novas oportunidades de aprendizado e desafios que me permitam crescer profissionalmente."
           buttonHref="contact"
           buttonText="Entrar em contato"
           photo={photo}
