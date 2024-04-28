@@ -98,11 +98,7 @@ export default function About() {
                   Me chamo Dario Reis e sou <span>Desenvolvedor FullStack</span>
                 </h3>
                 <p>
-                  Sou um Desenvolvedor FullStack, apaixonado por tecnologia e
-                  programação. Atualmente, estou no meu último ano Análise e
-                  Desenvolvimento de Sistemas. Estou sempre em busca de novos
-                  desafios e oportunidades para aprimorar minhas habilidades e
-                  conhecimentos.
+                Sou um Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia e programação me impulsiona a buscar constantemente novos desafios e oportunidades para evoluir minhas habilidades. Com uma base sólida tanto no front-end quanto no back-end, estou sempre empenhado em aprender novas tecnologias e aplicar as melhores práticas no desenvolvimento de soluções inovadoras.
                 </p>
               </div>
             </div>
