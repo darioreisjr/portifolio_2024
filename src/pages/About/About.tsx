@@ -120,8 +120,8 @@ export default function About() {
                 />
                 <InfoItem
                   pText="Telefone : "
-                  aText="(11) 95435-1239"
-                  aHref="tel:5511954351239"
+                  aText="(11) 9 6188-9886"
+                  aHref="tel:5511961889886"
                 />
                 <InfoItem
                   pText="LinkedIn : "
