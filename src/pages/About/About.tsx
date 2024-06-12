@@ -133,10 +133,7 @@ export default function About() {
                 />
 
                 <div className={styles.buttons}>
-                  <Button
-                    href=""
-                    download
-                  >
+                  <Button href="" download>
                     Baixar CV
                   </Button>
                   <Button href="contact">Contate-me</Button>
@@ -174,13 +171,67 @@ export default function About() {
 
               <div className={styles.experience}>
                 <h3 className={styles.title}>Experiência</h3>
+
                 <div className={styles.row}>
                   <div className={styles.timeline}>
                     <TimelineItem
-                      date=""
-                      title=""
-                      subtitle=""
-                      text=""
+                      date="nov de 2023 - até o momento"
+                      title="Atendente | Especialista em Gestão de Pessoas e eSocial"
+                      subtitle="Healthwork Medicina e Segurança no Trabalho · Tempo integral"
+                      text="Gerenciamento e atualização do cadastro de colaboradores, incluindo informações pessoais, profissionais e contratuais.
+                            Identificação e correção de erros cadastrais, assegurando a integridade e confiabilidade dos dados.
+                            Análise de Erros de Cadastros:"
+                    />
+                  </div>
+                </div>
+
+                <div className={styles.row}>
+                  <div className={styles.timeline}>
+                    <TimelineItem
+                      date="ago de 2023 - até o momento"
+                      title="Desenvolvedor web front end"
+                      subtitle="Workana · Freelance"
+                      text="Como desenvolvedor de aplicações web, tenho experiência com as tecnologias React.js, Typescript, 
+                      Next.js, Vite e Node. Minha responsabilidade inclui tanto o frontend como o backend, usando NodeJS e 
+                      tecnologias front-end (ReactJS, HTML, CSS, etc.). Além disso, desenvolvo, implemento e mantenho vários 
+                      aplicativos voltados para o cliente, empregando minhas habilidades em UX/UI para criar soluções que 
+                      atendam às necessidades do usuário. Também sou responsável por lidar com solicitações e chamadas em 
+                      APIs Restful, além de desenvolver funcionalidades usando React Hooks e testes unitários com o Jest."
+                    />
+                  </div>
+                </div>
+
+                <div className={styles.row}>
+                  <div className={styles.timeline}>
+                    <TimelineItem
+                      date="mar de 2023 - ago de 2023 · 6 meses"
+                      title="Porteiro"
+                      subtitle="Grupo BravoTE · Terceirizado"
+                      text="Controlar o acesso às dependências do edifício sob minha responsabilidade; Facilidade de comunicação com os moradores e demais usuários do condomínio; Respeito às regras do condomínio; Disposição para atender com presteza às solicitações; Lidar com o recebimento e entrega de mensagens e encomendas; Monitorar o estacionamento, orientar manobras e identificar vagas correspondentes a cada unidade; Capacidade de realizar pequenos reparos de elétrica ou hidráulica; Dar suporte à equipe de vigilância, comunicando ocorrências e fazendo chamadas de emergência quando necessário; Sou pontual, prestativo e procuro sempre recepcionar as pessoas com simpatia. Controlar o acesso às dependências do edifício sob minha responsabilidade; Facilidade de comunicação com os moradores e demais usuários do condomínio; Respeito às regras do condomínio; Disposição para atender com presteza às solicitações; Lidar com o recebimento e entrega de mensagens e encomendas; Monitorar o estacionamento, orientar manobras e identificar vagas correspondentes a cada unidade ; Capacidade de realizar pequenos reparos de elétrica ou hidráulica; Dar suporte à equipe de vigilância, comunicando ocorrências e fazendo chamadas de emergência quando necessário."
+                    />
+                  </div>
+                </div>
+
+                <div className={styles.row}>
+                  <div className={styles.timeline}>
+                    <TimelineItem
+                      date="fev de 2021 - abr de 2022 · 1 ano 3 meses"
+                      title="Porteiro"
+                      subtitle="Verzani & Sandrini · Terceirizado"
+                      text="Controlar o acesso às dependências do edifício sob minha responsabilidade; Facilidade de comunicação com os moradores e demais usuários do condomínio; Respeito às regras do condomínio; Disposição para atender com presteza às solicitações; Lidar com o recebimento e entrega de mensagens e encomendas; Monitorar o estacionamento, orientar manobras e identificar vagas correspondentes a cada unidade; Capacidade de realizar pequenos reparos de elétrica ou hidráulica; Dar suporte à equipe de vigilância, comunicando ocorrências e fazendo chamadas de emergência quando necessário; Sou pontual, prestativo e procuro sempre recepcionar as pessoas com simpatia. Controlar o acesso às dependências do edifício sob minha responsabilidade; Facilidade de comunicação com os moradores e demais usuários do condomínio; Respeito às regras do condomínio; Disposição para atender com presteza às solicitações; Lidar com o recebimento e entrega de mensagens e encomendas; Monitorar o estacionamento, orientar manobras e identificar vagas correspondentes a cada unidade ; Capacidade de realizar pequenos reparos de elétrica ou hidráulica; Dar suporte à equipe de vigilância, comunicando ocorrências e fazendo chamadas de emergência quando necessário."
+                    />
+                  </div>
+                </div>
+
+                <div className={styles.row}>
+                  <div className={styles.timeline}>
+                    <TimelineItem
+                      date="nov de 2013 - nov de 2016 · 3 anos 1 mês"
+                      title="Auxiliar de escritório"
+                      subtitle="Portaln3 · Tempo integral"
+                      text="Auxiliar na digitação de documentos, preparar relatórios e planilhas, organizar arquivos, controlar estoque do material de escritório e realizar atendimento telefônico e presencial.
+                      Controla estoque do material de escritório
+                      Realizava atendimento telefônico e presencial."
                     />
                   </div>
                 </div>
