@@ -126,8 +126,8 @@ export default function Contact() {
           <ContactItem
             icon="envelope"
             title="Email"
-            subtitle="dev.darioreis@gmail.com"
-            aHref="mailto:dev.darioreis@gmail.com"
+            subtitle="contato@darioreis.dev"
+            aHref="mailto:contato@darioreis.dev"
           />
           <ContactItem
             icon="map-marker-alt"
