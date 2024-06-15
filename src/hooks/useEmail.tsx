@@ -31,10 +31,11 @@ const useEmail = () => {
 
     try {
       await emailjs.send(
-        "service_kbmlnav",
-        "template_pu73bpu",
+        "service_xwv0v93", 
+        "template_dev8vpa", 
         templateParams,
-        "8MoajfaFVwn0NMxad",
+        "JsOuTrmFLtfvqGMCr", 
+        
       );
       setSuccess("Email enviado com sucesso!");
       setError(null);
