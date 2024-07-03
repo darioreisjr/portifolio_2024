@@ -1,7 +1,7 @@
 import styles from "./Projects.module.scss";
-// import ProjectItem from "../../components/ProjectItem/ProjectItem";
+import ProjectItem from "../../components/ProjectItem/ProjectItem";
 import Title from "../../components/Title/Title";
-// import projectsSorted from "../../utils/projects.jsx";
+import projectsSorted from "../../utils/project.jsx";
 import { useModal } from "../../context/ModalContext";
 
 export default function Projects() {
@@ -24,7 +24,7 @@ export default function Projects() {
           </div>
 
           <div className={styles.row}>
-            {/* {projectsSorted.map((project, index) => (
+            {projectsSorted.map((project, index) => (
               <ProjectItem
                 key={index}
                 img={project.img}
@@ -32,7 +32,7 @@ export default function Projects() {
                 deploy={project.deploy}
                 project={project}
               />
-            ))} */}
+            ))}
           </div>
         </div>
       </section>
