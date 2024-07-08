@@ -42,7 +42,7 @@ const projects = [
       "O DevStore é uma loja virtual moderna e completa. Possui interface amigável, layout responsivo para qualquer dispositivo e otimização para SEO, facilitando a busca por produtos.",
     repository: "https://github.com/darioreisjr/projeto-de-e-commerce-devstore",
     deploy: "https://DEVSTORE.vercel.app/",
-    skill: ["Typescript", "React", "Next.js", "TailwindCss"],
+    skill: ["Typescript", "React", "TailwindCss"],
     icon: [typescript, react, tailwindcss],
     createdAt: "10/02/2024",
   },
