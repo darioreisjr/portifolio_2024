@@ -1,7 +1,16 @@
 import mazaBarbershop from "../assets/img/mazaBarbershop.png";
 import cafeBugado from "../assets/img/cafeBufgado.png";
+import devStore from "../assets/img/devStore.png";
 
-import { html, css, javascript, sass, tailwindcss, react } from "./icons";
+import {
+  html,
+  css,
+  javascript,
+  sass,
+  tailwindcss,
+  react,
+  typescript,
+} from "./icons";
 
 const projects = [
   {
@@ -25,6 +34,17 @@ const projects = [
     skill: ["HTML5", "CSS3", "JavaScript", "React", "TailwindCss"],
     icon: [html, css, javascript, react, tailwindcss],
     createdAt: "05/03/2024",
+  },
+  {
+    img: devStore,
+    title: "E-commerce devstore",
+    description:
+      "O DevStore é uma loja virtual moderna e completa. Possui interface amigável, layout responsivo para qualquer dispositivo e otimização para SEO, facilitando a busca por produtos.",
+    repository: "https://github.com/darioreisjr/projeto-de-e-commerce-devstore",
+    deploy: "https://DEVSTORE.vercel.app/",
+    skill: ["Typescript", "React", "Next.js", "TailwindCss"],
+    icon: [typescript, react, tailwindcss],
+    createdAt: "10/02/2024",
   },
 ];
 
