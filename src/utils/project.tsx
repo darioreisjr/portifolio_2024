@@ -1,6 +1,7 @@
 import mazaBarbershop from "../assets/img/mazaBarbershop.png";
 import cafeBugado from "../assets/img/cafeBufgado.png";
 import devStore from "../assets/img/devStore.png";
+import kissNotes from "../assets/img/KissNotes.png";
 
 import {
   html,
@@ -10,6 +11,8 @@ import {
   tailwindcss,
   react,
   typescript,
+  vite,
+  styledcomponents,
 } from "./icons";
 
 const projects = [
@@ -45,6 +48,17 @@ const projects = [
     skill: ["Typescript", "React", "TailwindCss"],
     icon: [typescript, react, tailwindcss],
     createdAt: "10/02/2024",
+  },
+  {
+    img: kissNotes,
+    title: "KissNotes",
+    description:
+      "O KissNotes é um aplicativo de bloco de notas minimalista e intuitivo, construído com ReactJS, Vite e Styled Components. Ele oferece uma interface simples e fácil de usar para criar, editar e organizar notas de texto, links e outros recursos. O KissNotes é perfeito para quem procura uma maneira rápida e eficiente de tomar notas, organizar ideias e salvar informações importantes.",
+    repository: "https://github.com/darioreisjr/kissnotes_reactjs",
+    deploy: "https://kissnotes.netlify.app/",
+    skill: ["React", "Vite", "Styled Components"],
+    icon: [react, vite, styledcomponents],
+    createdAt: "14/03/2024",
   },
 ];
 
