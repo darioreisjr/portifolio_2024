@@ -2,6 +2,7 @@ import mazaBarbershop from "../assets/img/mazaBarbershop.png";
 import cafeBugado from "../assets/img/cafeBufgado.png";
 import devStore from "../assets/img/devStore.png";
 import kissNotes from "../assets/img/KissNotes.png";
+import portfolio2023 from "../assets/img/portifolio2023.png";
 
 import {
   html,
@@ -13,6 +14,7 @@ import {
   typescript,
   vite,
   styledcomponents,
+
 } from "./icons";
 
 const projects = [
@@ -59,6 +61,17 @@ const projects = [
     skill: ["React", "Vite", "Styled Components"],
     icon: [react, vite, styledcomponents],
     createdAt: "14/03/2024",
+  },
+  {
+    img: portfolio2023,
+    title: "PORTIFÓLIO VERSÃO 2023",
+    description:
+      "Desenvolver uma plataforma web de um portfólio pessoal, para a construção deste projeto foi usado Next.js e TailwindCss.E um projeto que é uma compilação de materiais que exemplificam minhas crenças, habilidades, qualificações, educação, treinamento e experiências. Ele fornece informações sobre minha personalidade e ética de trabalho. Amostras de trabalho e outros detalhes, conforme explicado acima. Está intimamente relacionado ao Currículo Online ou CV.",
+    repository: "https://github.com/darioreisjr/portifolio2023",
+    deploy: "https://darioreisjr.vercel.app/",
+    skill: ["React", "typeScript", "tailwindCss"],
+    icon: [react, tailwindcss, tailwindcss],
+    createdAt: "01/03/2023",
   },
 ];
 
