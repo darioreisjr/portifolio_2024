@@ -64,7 +64,7 @@ const projects = [
   },
   {
     img: portfolio2023,
-    title: "PORTIFÓLIO VERSÃO 2023",
+    title: "Portfolio versão 2023",
     description:
       "Desenvolver uma plataforma web de um portfólio pessoal, para a construção deste projeto foi usado Next.js e TailwindCss.E um projeto que é uma compilação de materiais que exemplificam minhas crenças, habilidades, qualificações, educação, treinamento e experiências. Ele fornece informações sobre minha personalidade e ética de trabalho. Amostras de trabalho e outros detalhes, conforme explicado acima. Está intimamente relacionado ao Currículo Online ou CV.",
     repository: "https://github.com/darioreisjr/portifolio2023",
@@ -72,6 +72,17 @@ const projects = [
     skill: ["React", "typeScript", "tailwindCss"],
     icon: [react, tailwindcss, tailwindcss],
     createdAt: "01/03/2023",
+  },
+  {
+    img: portfolio2023,
+    title: "Gerador de Citações ",
+    description:
+      "Este projeto e um gerador de citações, uma aplicação web que exibe citações aleatórias ou personalizadas. Ele utiliza HTML, CSS e JavaScript, com uma estrutura simples e organizada.",
+    repository: "https://github.com/darioreisjr/gerador_de_citacoes_js",
+    deploy: "https://darioreisjr.github.io/gerador_de_citacoes_js/",
+    skill: ["HTML", "CSS", "JavaScript"],
+    icon: [html, css, javascript],
+    createdAt: "01/05/2024",
   },
 ];
 
