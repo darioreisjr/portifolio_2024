@@ -3,6 +3,7 @@ import cafeBugado from "../assets/img/cafeBufgado.png";
 import devStore from "../assets/img/devStore.png";
 import kissNotes from "../assets/img/KissNotes.png";
 import portfolio2023 from "../assets/img/portifolio2023.png";
+import geracaoCitacoes from "../assets/img/geracaoCitacoes.png";
 
 import {
   html,
@@ -74,7 +75,7 @@ const projects = [
     createdAt: "01/03/2023",
   },
   {
-    img: portfolio2023,
+    img: geracaoCitacoes,
     title: "Gerador de Citações ",
     description:
       "Este projeto e um gerador de citações, uma aplicação web que exibe citações aleatórias ou personalizadas. Ele utiliza HTML, CSS e JavaScript, com uma estrutura simples e organizada.",
