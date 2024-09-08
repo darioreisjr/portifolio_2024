@@ -98,7 +98,13 @@ export default function About() {
                   Me chamo Dario Reis e sou <span>Desenvolvedor FullStack</span>
                 </h3>
                 <p>
-                Sou um Desenvolvedor Full Stack com formação em Análise e Desenvolvimento de Sistemas. Minha paixão por tecnologia e programação me impulsiona a buscar constantemente novos desafios e oportunidades para evoluir minhas habilidades. Com uma base sólida tanto no front-end quanto no back-end, estou sempre empenhado em aprender novas tecnologias e aplicar as melhores práticas no desenvolvimento de soluções inovadoras.
+                  Sou um Desenvolvedor Full Stack com formação em Análise e
+                  Desenvolvimento de Sistemas. Minha paixão por tecnologia e
+                  programação me impulsiona a buscar constantemente novos
+                  desafios e oportunidades para evoluir minhas habilidades. Com
+                  uma base sólida tanto no front-end quanto no back-end, estou
+                  sempre empenhado em aprender novas tecnologias e aplicar as
+                  melhores práticas no desenvolvimento de soluções inovadoras.
                 </p>
               </div>
             </div>
@@ -109,8 +115,8 @@ export default function About() {
                 <InfoItem pText="Estado : " spanText="SP" />
                 <InfoItem
                   pText="Email : "
-                  aText="contato@darioreis.dev"
-                  aHref="mailto:felipesilva9627@hotmail.com"
+                  aText="dev.darioreis@gmail.com"
+                  aHref="mailto:dev.darioreis@gmail.com"
                 />
                 <InfoItem
                   pText="Telefone : "
