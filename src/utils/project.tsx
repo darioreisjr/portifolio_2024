@@ -4,6 +4,7 @@ import devStore from "../assets/img/devStore.png";
 import kissNotes from "../assets/img/KissNotes.png";
 import portfolio2023 from "../assets/img/portifolio2023.png";
 import geracaoCitacoes from "../assets/img/geracaoCitacoes.png";
+import turbox from "../assets/img/turbox.png";
 
 import {
   html,
@@ -84,6 +85,17 @@ const projects = [
     skill: ["HTML", "CSS", "JavaScript"],
     icon: [html, css, javascript],
     createdAt: "01/05/2024",
+  },
+  {
+    img: turbox,
+    title: "TURBOX",
+    description:
+      "O projeto consiste em uma landing page moderna e responsiva para promover o serviço de streaming TURBOX, utilizando tecnologias como React, TypeScript e Tailwind CSS. Ele é direcionado a usuários que buscam acesso a canais, filmes e séries com alta qualidade e funcionalidades convenientes.",
+    repository: "https://github.com/darioreisjr/ladingPage_turbox_lucasVidal",
+    deploy: "https://turboxtv.vercel.app/",
+    skill: ["React", "typeScript", "tailwindCss"],
+    icon: [react, typescript, tailwindcss],
+    createdAt: "02/01/2025",
   },
 ];
 
