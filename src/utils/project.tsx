@@ -5,6 +5,7 @@ import kissNotes from "../assets/img/KissNotes.png";
 import portfolio2023 from "../assets/img/portifolio2023.png";
 import geracaoCitacoes from "../assets/img/geracaoCitacoes.png";
 import turbox from "../assets/img/turbox.png";
+import localTuristico from "../assets/img/localTuristico.png";
 
 import {
   html,
@@ -88,7 +89,7 @@ const projects = [
   },
   {
     img: turbox,
-    title: "TURBOX",
+    title: "TurboX",
     description:
       "O projeto consiste em uma landing page moderna e responsiva para promover o serviço de streaming TURBOX, utilizando tecnologias como React, TypeScript e Tailwind CSS. Ele é direcionado a usuários que buscam acesso a canais, filmes e séries com alta qualidade e funcionalidades convenientes.",
     repository: "https://github.com/darioreisjr/ladingPage_turbox_lucasVidal",
@@ -96,6 +97,17 @@ const projects = [
     skill: ["React", "typeScript", "tailwindCss"],
     icon: [react, typescript, tailwindcss],
     createdAt: "02/01/2025",
+  },
+  {
+    img: localTuristico,
+    title: "Local Turístico",
+    description:
+      "Este projeto é uma página web responsiva desenvolvida com HTML5 e CSS3, destacando informações, imagens e curiosidades sobre o local turístico Busan",
+    repository: "https://github.com/darioreisjr/local-turistico",
+    deploy: "https://drlocalturistico.vercel.app/",
+    skill: ["HTML5", "CSS3"],
+    icon: [html, css],
+    createdAt: "30/01/2025",
   },
 ];
 
