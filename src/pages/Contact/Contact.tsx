@@ -42,10 +42,10 @@ export default function Contact() {
         typeInput === "name"
           ? nameSchema
           : typeInput === "email"
-          ? emailSchema
-          : typeInput === "subject"
-          ? subjectSchema
-          : messageSchema,
+            ? emailSchema
+            : typeInput === "subject"
+              ? subjectSchema
+              : messageSchema,
       setInput: (value) => {
         setFormData({ ...formData, [typeInput]: value });
       },
@@ -120,8 +120,8 @@ export default function Contact() {
           <ContactItem
             icon="phone"
             title="Celular"
-            subtitle="(11) 95435-1239"
-            aHref="tel:5511954351239"
+            subtitle="(11) 96188-9886"
+            aHref="tel:5511961889886"
           />
           <ContactItem
             icon="envelope"
