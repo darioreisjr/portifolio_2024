@@ -6,6 +6,7 @@ import portfolio2023 from "../assets/img/portifolio2023.png";
 import geracaoCitacoes from "../assets/img/geracaoCitacoes.png";
 import turbox from "../assets/img/turbox.png";
 import localTuristico from "../assets/img/localTuristico.png";
+import travelgram from "../assets/img/travelgram.png";
 
 import {
   html,
@@ -108,6 +109,17 @@ const projects = [
     skill: ["HTML5", "CSS3"],
     icon: [html, css],
     createdAt: "30/01/2025",
+  },
+  {
+    img: travelgram,
+    title: "TravelGram - Rede Social de Fotos de Viagem",
+    description:
+      "Este projeto consiste na criação do layout do perfil de usuário, com foco em design responsivo e componentes reutilizáveis.",
+    repository: "https://github.com/darioreisjr/projeto-travelgram",
+    deploy: "https://drtravelgram.vercel.app/",
+    skill: ["HTML5", "CSS3"],
+    icon: [html, css],
+    createdAt: "05/02/2025",
   },
 ];
 
