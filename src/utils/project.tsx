@@ -7,6 +7,7 @@ import geracaoCitacoes from "../assets/img/geracaoCitacoes.png";
 import turbox from "../assets/img/turbox.png";
 import localTuristico from "../assets/img/localTuristico.png";
 import travelgram from "../assets/img/travelgram.png";
+import portalNoticias from "../assets/img/portalNoticias.png";
 
 import {
   html,
@@ -120,6 +121,17 @@ const projects = [
     skill: ["HTML5", "CSS3"],
     icon: [html, css],
     createdAt: "05/02/2025",
+  },
+  {
+    img: portalNoticias,
+    title: "Portal de Notícias de Tecnologia",
+    description:
+      "Esta homepage foi criada para oferecer uma experiência intuitiva e moderna para usuários de desktop, destacando as últimas novidades em tecnologia, inteligência artificial, robótica e inovações digitais.",
+    repository: "https://github.com/darioreisjr/projeto-portal-de-noticias",
+    deploy: "https://drportaldenoticias.vercel.app/",
+    skill: ["HTML5", "CSS3"],
+    icon: [html, css],
+    createdAt: "12/02/2025",
   },
 ];
 

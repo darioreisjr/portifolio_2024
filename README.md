@@ -1,6 +1,5 @@
 # Portfólio
 
-
 ## 📄 Descrição
 
 Meu portfólio. Utilizei React, Typescript e SASS, me dando uma ótima oportunidade para aplicar meus conhecimentos adquiridos.
@@ -9,14 +8,13 @@ Meu portfólio. Utilizei React, Typescript e SASS, me dando uma ótima oportunid
 
 ## 🎨 Layout
 
-
 ## 💻 Tecnologias utilizadas
 
-- ``REACT.JS``
-- ``TYPESCRIPT``
-- ``SASS``
-- ``VITE.JS``
-- ``ESLINT``
+- `REACT.JS`
+- `TYPESCRIPT`
+- `SASS`
+- `VITE.JS`
+- `ESLINT`
 
 ## 🧑‍💻 Criador
 
@@ -38,4 +36,3 @@ Meu portfólio. Utilizei React, Typescript e SASS, me dando uma ótima oportunid
 <p align="left">
   <a href="https://www.linkedin.com/in/darioreisjr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
